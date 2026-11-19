@@ -4,8 +4,8 @@ I'm a self-taught developer and cybersecurity enthusiast focused on low-level pr
 
 #### Current Skills and Goals
 - **C:** Currently (and most likely forever) it is my main and most used language, i have a special type of love for manually managing memory and low level programming.
-- **Python:** It is my least used language since i dont find it particularly "attractive" and i'm not too fond of using a high level language based solely on "trust" when it comes to memory safety and optimization but i will use it if strictly needed for tasks i can not do using C.
-- **OPSEC** Once the fundamentals are set, i plan on learning OPSEC's set of skills. i find the whole idea and thrill of protecting private information from malicious intent beautiful.
+- **Python:** Used primarily as a practical scripting and automation tool for rapid prototyping or tasks where C would be overkill, though my core focus remains low-level performance and manual memory control.
+- **OPSEC:** Once the fundamentals are set, i plan on learning OPSEC's set of skills. i find the whole idea and thrill of protecting private information from malicious intent beautiful.
 
 #### What I'm currently working on
 - **Computer Science Fundamentals:** Completing Harvard's **CS50x** (C, Python, SQL, algorithms, and data structures).
